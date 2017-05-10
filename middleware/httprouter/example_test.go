@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"golib/ckaznocha/go-JWTBearerware/middleware/httprouter"
+	"github.com/dylenfu/go-JWTBearerware/middleware/httprouter"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/julienschmidt/httprouter"
 )

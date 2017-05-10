@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"golib/ckaznocha/go-JWTBearerware/middleware/net_http"
+	"github.com/dylenfu/go-JWTBearerware/middleware/net_http"
 	"github.com/dgrijalva/jwt-go"
 )
 

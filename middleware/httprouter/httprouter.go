@@ -3,7 +3,7 @@ package bwhttprouter
 import (
 	"net/http"
 
-	"golib/ckaznocha/go-JWTBearerware"
+	"github.com/dylenfu/go-JWTBearerware"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/julienschmidt/httprouter"
 )
